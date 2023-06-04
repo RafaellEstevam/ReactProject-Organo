@@ -1,0 +1,19 @@
+.campo-texto label{
+    color: #212121;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.campo-texto input{
+    width: 100%;
+    font-family: 'Montserrat';
+    color: #A4A4A4;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    box-sizing: border-box;
+    border: none;
+    padding: 15px;
+}
